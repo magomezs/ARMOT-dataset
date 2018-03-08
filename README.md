@@ -24,3 +24,10 @@ The following table presents the video specifications values for every sequence.
 
 In addition, every video sequence is accompanied by its corresponding annotations. These consists of the bounding boxes and identities of every human detection at each frame, as long as they are occluded in less than the 50\% and their head are visible. This information has been collected in xml files. 
 
+The described sequences form the fist version of the ARMOT dataset, which is meant to be enlarged with a wider variety of aerial video sequences. 
+
+
+# Access
+The video sequences can be found here:https://drive.google.com/open?id=16SwZ_XwjGYJvv7jSKeIu_LQsK68F16Rk
+The annotations are in the folder with te same name (ANNOTATIONS) in this repository.
+
