@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset name="Browse1">
+	<frame number="1">
+		<objectlist>
+			<object id="1">
+				<orientation>0</orientation>
+				<box h="280" w="180" xc="239" yc="50" color="#00FF00"/>
+				<appearance>appear</appearance>
+			</object>
+		</objectlist>
+	</frame>
+	<frame number="2">
+		<objectlist>
+			<object id="1">
+				<orientation>0</orientation>
+				<box h="280" w="180" xc="240" yc="60" color="#00FF00"/>
+				<appearance>appear</appearance>
+			</object>
+		</objectlist>
+	</frame>
+	<frame number="3">
+		<objectlist>
+			<object id="1">
+				<orientation>0</orientation>
+				<box h="280" w="180" xc="240" yc="70" color="#00FF00"/>
+				<appearance>appear</appearance>
+			</object>
+		</objectlist>
+	</frame>
+	<frame number="4">
+		<objectlist>
+			<object id="1">
+				<orientation>0</orientation>
+				<box h="289" w="180" xc="235" yc="70" color="#00FF00"/>
+				<appearance>appear</appearance>
+			</object>
+		</objectlist>
+	</frame>
+	<frame number="5">
+		<objectlist>
+			<object id="1">
+				<orientation>0</orientation>
+				<box h="289" w="180" xc="235" yc="80" color="#00FF00"/>
+				<appearance>appear</appearance>
+			</object>
+		</objectlist>
+	</frame>
+	<frame number="6">
+		<objectlist>
+			<object id="1">
+				<orientation>0</orientation>
+				<box h="280" w="180" xc="210" yc="150" color="#00FF00"/>
+				<appearance>appear</appearance>
+			</object>
+		</objectlist>
+	</frame>
+	<frame number="7">
+		<objectlist>
+			<object id="1">
+				<orientation>0</orientation>
+				<box h="280" w="180" xc="210" yc="160" color="#00FF00"/>
+				<appearance>appear</appearance>
+			</object>
+		</objectlist>
+	</frame>
+	<frame number="8">
+		<objectlist>
+			<object id="1">
+				<orientation>0</orientation>
+				<box h="280" w="180" xc="200" yc="170" color="#00FF00"/>
+				<appearance>appear</appearance>
+			</object>
+		</objectlist>
+	</frame>
+	<frame number="9">
+		<objectlist>
+			<object id="1">
+				<orientation>0</orientation>
+				<box h="280" w="180" xc="195" yc="170" color="#00FF00"/>
+				<appearance>appear</appearance>
+			</object>
+		</objectlist>
+	</frame>
+	<frame number="10">
+		<objectlist>
+			<object id="1">
+				<orientation>0</orientation>
+				<box h="280" w="180" xc="185" yc="198" color="#00FF00"/>
+				<appearance>appear</appearance>
+			</object>
+		</objectlist>
+	</frame>
+	<frame number="11">
+		<objectlist>
+			<object id="1">
+				<orientation>0</orientation>
+				<box h="280" w="180" xc="176" yc="221" color="#00FF00"/>
+				<appearance>appear</appearance>
+			</object>
+		</objectlist>
+	</frame>
+	<frame number="12">
+		<objectlist>
+			<object id="1">
+				<orientation>0</orientation>
+				<box h="280" w="180" xc="170" yc="244" color="#00FF00"/>
+				<appearance>appear</appearance>
+			</object>
+		</objectlist>
+	</frame>
+	<frame number="13">
+		<objectlist>
+			<object id="1">
+				<orientation>0</orientation>
+				<box h="280" w="180" xc="168" yc="254" color="#00FF00"/>
+				<appearance>appear</appearance>
+			</object>
+		</objectlist>
+	</frame>
+</dataset>
