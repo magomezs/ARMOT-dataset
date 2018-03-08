@@ -2,7 +2,7 @@
 Dataset for Multi-Object Tracking from Aerial videos for Rescue missions (ARMOT, Aerial Rescue Multi-Object Tracking).
 
 In the absence of aerial datasets with available ground truth annotations about the position and identity of multiple human beings for search and rescue purposes, a new dataset has been captured from this platform:
-a carbon fiber octocopter of total weight 4Kg, equipped with GNSS, magnetometer and IMU (accelerometers, gyroscopes, and barometer). Furthermore, a down-looking camera Kinect v2 which provides 1920x1080 RGB images, is used as the main sensor. 
+a carbon fiber octocopter of total weight 4Kg, equipped with GNSS, magnetometer and IMU (accelerometers, gyroscopes, and barometer). Furthermore, a down-looking camera Kinect v2 which provides 960x540 RGB images, is used as the main sensor. 
 
 This new dataset, called ARMOT dataset, Aerial Rescue Multi-Object Tracking dataset, is formed by the following four video sequences, listed in order of increasing difficulty:
 
