@@ -31,3 +31,18 @@ The described sequences form the fist version of the ARMOT dataset, which is mea
 The video sequences can be found here:https://drive.google.com/open?id=16SwZ_XwjGYJvv7jSKeIu_LQsK68F16Rk
 The annotations are in the folder with te same name (ANNOTATIONS) in this repository.
 
+# Citation: 
+Please cite N2MCLoss in your publications if it helps your research:
+Al-Kaff, A., Gómez-Silva, M. J., Moreno, F. M., de la Escalera, A., & Armingol, J. M. (2019). An Appearance-Based Tracking Algorithm for Aerial Search and Rescue Purposes. Sensors, 19(3), 652.
+
+@article{al2019appearance,
+  title={An Appearance-Based Tracking Algorithm for Aerial Search and Rescue Purposes},
+  author={Al-Kaff, Abdulla and G{\'o}mez-Silva, Mar{\'\i}a Jos{\'e} and Moreno, Francisco Miguel and de la Escalera, Arturo and Armingol, Jos{\'e} Mar{\'\i}a},
+  journal={Sensors},
+  volume={19},
+  number={3},
+  pages={652},
+  year={2019},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
